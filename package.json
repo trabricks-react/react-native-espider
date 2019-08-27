@@ -1,0 +1,25 @@
+{
+  "name": "react-native-espider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "E-Spider",
+    "espider",
+    "스크랩핑",
+    "스크래퍼",
+    "HEENAM",
+    "희남"
+  ],
+  "homepage": "https://github.com/trabricks/react-native-espider#readme",
+  "author": "Trabricks LLC",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
